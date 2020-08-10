@@ -28,9 +28,13 @@ My first proper submission to Github, of course it was a Rice, but it looks very
 
 ``ranger`` terminal based file manager, just because
 
+![How it did look](https://i.imgur.com/Jv3ntgx.png "comfy blue lain")
+
 
 ![How it looks](https://i.imgur.com/8714zOe.png "comfy")
 
 
 
 Psst, I might as well drop a background folder into there, not everything will be Lain related though
+
+Pssst, I will be updating this repo with a new screenshot whenever I change my config, when there is an obvious change that is

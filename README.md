@@ -35,6 +35,6 @@ My first proper submission to Github, of course it was a Rice, but it looks very
 
 
 
-Psst, I might as well drop a background folder into there, not everything will be Lain related though
+*Psst, I might as well drop a background folder into there, not everything will be Lain related though
 
-Pssst, I will be updating this repo with a new screenshot whenever I change my config, when there is an obvious change that is
+*Pssst, I will be updating this repo with a new screenshot whenever I change my config, when there is an obvious change that is

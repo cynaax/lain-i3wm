@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: i3pystatus
+Version: 3.35
+Summary: A complete replacement for i3status
+Home-page: http://github.com/enkore/i3pystatus
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: X11 Applications
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Desktop Environment :: Window Managers

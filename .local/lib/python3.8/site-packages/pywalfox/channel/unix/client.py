@@ -1,0 +1,28 @@
+import os
+import logging
+from ..connector import Connector
+
+
+class Client(Connector):
+    """UNIX-socket client used to communicate with the daemon."""
+    def __init__(self):
+        Connector.__init__(self, 'unix', False)
+
+    def connect(self, host):
+        """
+        Connects to the UNIX-socket if it exists.
+
+        :return: if the connection to the socket was successfull
+        :rType: bool
+        """
+        if os.path.exists(host):
+            try:
+                self.socket.connect(host)
+                logging.debug('Successfully connected to UNIX socket at: %s' % host)
+                return True
+            except OSError as e:
+                logging.error('Failed to connect to socket: %s' % e.strerror)
+        else:
+            logging.debug('Could not find socket: %s' % host)
+
+        return False

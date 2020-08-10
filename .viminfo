@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1597070493,,"q"
+|2,0,1597055789,,"q"
+:w
+|2,0,1597051473,,"w"
 
 # Search String History (newest to oldest):
 
@@ -27,14 +29,24 @@
 # File marks:
 '0  1  0  ./i3/config
 |4,48,1,0,1597057141,"./i3/config"
-'1  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,49,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
-'2  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,50,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
-'3  66  18  ~/.xinitrc
-|4,51,66,18,1596985878,"~/.xinitrc"
-'4  1  0  ./i3/config
-|4,52,1,0,1596985083,"./i3/config"
+'1  1  0  ./i3/config
+|4,49,1,0,1597057141,"./i3/config"
+'2  51  89  ~/.config/i3/config
+|4,50,51,89,1597055789,"~/.config/i3/config"
+'3  1  0  ./i3/config
+|4,51,1,0,1597057141,"./i3/config"
+'4  1  0  ~/.config/wpg/templates/anthony_i3_config.base
+|4,52,1,0,1597051298,"~/.config/wpg/templates/anthony_i3_config.base"
+'5  1  0  ./i3/config
+|4,53,1,0,1597057141,"./i3/config"
+'6  1  0  ~/.config/wpg/templates/anthony_i3_config.base
+|4,54,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
+'7  1  0  ~/.config/wpg/templates/anthony_i3_config.base
+|4,55,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
+'8  1  0  ~/.config/wpg/templates/anthony_i3_config.base
+|4,56,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
+'9  66  18  ~/.xinitrc
+|4,57,66,18,1596985878,"~/.xinitrc"
 
 # Jumplist (newest first):
 -'  1  0  ./i3/config
@@ -69,172 +81,174 @@
 |4,39,1,0,1597057141,"./i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
--'  66  18  ~/.xinitrc
-|4,39,66,18,1596985878,"~/.xinitrc"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  51  89  ~/.config/i3/config
+|4,39,51,89,1597055789,"~/.config/i3/config"
+-'  420  61  ~/.config/i3/config
+|4,39,420,61,1597051465,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1597062433,"~/.config/i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
+|4,39,1,0,1597051298,"~/.config/wpg/templates/anthony_i3_config.base"
+-'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
+|4,39,1,0,1597051298,"~/.config/wpg/templates/anthony_i3_config.base"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597057141,"./i3/config"
 
 # History of marks within files (newest to oldest):
 
@@ -242,8 +256,17 @@
 	*	1597057140	0
 	"	1	0
 
+> ~/.config/i3/config
+	*	1597055787	0
+	"	51	89
+	^	420	62
+	.	420	61
+	+	420	63
+	+	421	0
+	+	420	61
+
 > ~/.config/wpg/templates/anthony_i3_config.base
-	*	1596988965	0
+	*	1597051292	0
 	"	1	0
 
 > ~/.xinitrc

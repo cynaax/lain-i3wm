@@ -14,7 +14,7 @@ My first proper submission to Github, of course it was a Rice, but it looks very
 
 (I will be adding more as time goes on)
 
-## Optional deps:
+### Optional deps:
 
 ``cava`` terminal based audio visualizer
 

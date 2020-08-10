@@ -1,5 +1,5 @@
 # lain-i3wm
-My first proper submission to Github, of course it was a Rice, but it looks very nice.
+My first proper submission to Github, of course it's a Rice, but it looks very nice.
 
 ### Needed deps:
 `pywal` self explanatory
@@ -14,7 +14,7 @@ My first proper submission to Github, of course it was a Rice, but it looks very
 
 (I will be adding more as time goes on)
 
-## Optional deps:
+### Optional deps:
 
 ``cava`` terminal based audio visualizer
 
@@ -35,6 +35,6 @@ My first proper submission to Github, of course it was a Rice, but it looks very
 
 
 
-Psst, I might as well drop a background folder into there, not everything will be Lain related though
+*Psst, I might as well drop a background folder into there, not everything will be Lain related though
 
-Pssst, I will be updating this repo with a new screenshot whenever I change my config, when there is an obvious change that is
+*Pssst, I will be updating this repo with a new screenshot whenever I change my config, when there is an obvious change that is

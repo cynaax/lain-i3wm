@@ -424,5 +424,5 @@ mode "$mode_gaps_outer" {
         bindsym Escape mode "default"
 }
 
-exec --no-startup-id wal -i /home/anthony/Documents/wariscomfy.png
+exec --no-startup-id wal -i /home/anthony/wallpapers/15.png
 

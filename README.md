@@ -24,7 +24,7 @@ My first proper submission to Github, of course it was a Rice, but it looks very
 
 ``oomox`` just because
 
-``pywalfox`` edits the firefox css to that of the colours pywal generated
+``pywalfox`` uses the ThemeAPI from Mozilla that allows Firefox work with the generated colours from `pywal`
 
 ``ranger`` terminal based file manager, just because
 

@@ -1,5 +1,5 @@
 # lain-i3wm
-My first proper submission to Github, of course it was a Rice, but it looks very nice.
+My first proper submission to Github, of course it's a Rice, but it looks very nice.
 
 ### Needed deps:
 `pywal` self explanatory

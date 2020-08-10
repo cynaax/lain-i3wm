@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1597055789,,"q"
+|2,0,1597074754,,"q"
 :w
-|2,0,1597051473,,"w"
+|2,0,1597059782,,"w"
 
 # Search String History (newest to oldest):
 
@@ -27,29 +27,39 @@
 # Registers:
 
 # File marks:
-'0  1  0  ./i3/config
-|4,48,1,0,1597057141,"./i3/config"
-'1  1  0  ./i3/config
-|4,49,1,0,1597057141,"./i3/config"
-'2  51  89  ~/.config/i3/config
-|4,50,51,89,1597055789,"~/.config/i3/config"
+'0  50  0  ~/.config/i3/config
+|4,48,50,0,1597074754,"~/.config/i3/config"
+'1  1  0  ./config/i3/config
+|4,49,1,0,1597072050,"./config/i3/config"
+'2  1  0  ./i3/config
+|4,50,1,0,1597072039,"./i3/config"
 '3  1  0  ./i3/config
 |4,51,1,0,1597057141,"./i3/config"
-'4  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,52,1,0,1597051298,"~/.config/wpg/templates/anthony_i3_config.base"
+'4  1  0  ./i3/config
+|4,52,1,0,1597057141,"./i3/config"
 '5  1  0  ./i3/config
 |4,53,1,0,1597057141,"./i3/config"
-'6  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,54,1,0,1596988970,"~/.config/wpg/templates/anthony_i3_config.base"
-'7  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,55,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
-'8  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,56,1,0,1596988689,"~/.config/wpg/templates/anthony_i3_config.base"
-'9  66  18  ~/.xinitrc
-|4,57,66,18,1596985878,"~/.xinitrc"
+'6  1  0  ./i3/config
+|4,54,1,0,1597057141,"./i3/config"
+'7  1  0  ./i3/config
+|4,55,1,0,1597057141,"./i3/config"
+'8  1  0  ./i3/config
+|4,56,1,0,1597057141,"./i3/config"
+'9  1  0  ./i3/config
+|4,57,1,0,1597057141,"./i3/config"
 
 # Jumplist (newest first):
+-'  50  0  ~/.config/i3/config
+|4,39,50,0,1597074754,"~/.config/i3/config"
+-'  1  0  ./config/i3/config
+|4,39,1,0,1597072050,"./config/i3/config"
 -'  1  0  ./i3/config
+|4,39,1,0,1597072039,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597072039,"./i3/config"
+-'  56  88  ~/.config/i3/config
+|4,39,56,88,1597059777,"~/.config/i3/config"
+-'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
@@ -209,18 +219,8 @@
 |4,39,1,0,1597057141,"./i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
--'  51  89  ~/.config/i3/config
-|4,39,51,89,1597055789,"~/.config/i3/config"
--'  420  61  ~/.config/i3/config
-|4,39,420,61,1597051465,"~/.config/i3/config"
--'  1  0  ~/.config/i3/config
-|4,39,1,0,1597062433,"~/.config/i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1597051298,"~/.config/wpg/templates/anthony_i3_config.base"
--'  1  0  ~/.config/wpg/templates/anthony_i3_config.base
-|4,39,1,0,1597051298,"~/.config/wpg/templates/anthony_i3_config.base"
 -'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
 -'  1  0  ./i3/config
@@ -252,18 +252,24 @@
 
 # History of marks within files (newest to oldest):
 
-> ./i3/config
-	*	1597057140	0
-	"	1	0
-
 > ~/.config/i3/config
-	*	1597055787	0
-	"	51	89
-	^	420	62
-	.	420	61
+	*	1597074633	0
+	"	50	0
+	^	56	89
+	.	56	88
 	+	420	63
 	+	421	0
 	+	420	61
+	+	55	88
+	+	56	88
+
+> ./config/i3/config
+	*	1597072048	0
+	"	1	0
+
+> ./i3/config
+	*	1597072036	0
+	"	1	0
 
 > ~/.config/wpg/templates/anthony_i3_config.base
 	*	1597051292	0

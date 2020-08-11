@@ -4,7 +4,7 @@ My first proper submission to Github, of course it's a rice, but it looks very n
 ### Needed deps:
 `pywal` self explanatory
 
-`wpgtk` allows you to edit the colours or randomize them, plus more (uses pywal as it's backend)
+`wpgtk` allows you to edit the colours, plus more (uses wal/pywal as it's backend by default)
 
 `chameleon` creates a gtk theme based on the colours taken from pywal
 

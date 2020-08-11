@@ -16,17 +16,17 @@ My first proper submission to Github, of course it's a rice, but it looks very n
 
 ### Optional deps:
 
-``cava`` terminal based audio visualizer
+`cava` terminal based audio visualizer
 
-``cordless`` because I like it
+`cordless` because I like it
 
-``spotify-tui`` works better, and faster
+`spotify-tui` works better, and faster
 
-``oomox`` just because
+`oomox` just because
 
-``pywalfox`` uses the ThemeAPI from Mozilla that allows Firefox to work with the generated colours from `pywal`
+`pywalfox` uses the ThemeAPI from Mozilla that allows Firefox to work with the generated colours from `pywal`
 
-``ranger`` terminal based file manager, just because
+`ranger` terminal based file manager, just because
 
 
 ### Previews

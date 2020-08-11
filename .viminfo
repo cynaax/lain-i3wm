@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1597074754,,"q"
+|2,0,1597122408,,"q"
 :w
-|2,0,1597059782,,"w"
+|2,0,1597122304,,"w"
 
 # Search String History (newest to oldest):
 
@@ -27,14 +27,14 @@
 # Registers:
 
 # File marks:
-'0  50  0  ~/.config/i3/config
-|4,48,50,0,1597074754,"~/.config/i3/config"
-'1  1  0  ./config/i3/config
-|4,49,1,0,1597072050,"./config/i3/config"
-'2  1  0  ./i3/config
-|4,50,1,0,1597072039,"./i3/config"
+'0  52  0  ~/.cache/wal/colors-rofi-dark.rasi
+|4,48,52,0,1597122408,"~/.cache/wal/colors-rofi-dark.rasi"
+'1  50  0  ~/.config/i3/config
+|4,49,50,0,1597074754,"~/.config/i3/config"
+'2  1  0  ./config/i3/config
+|4,50,1,0,1597072050,"./config/i3/config"
 '3  1  0  ./i3/config
-|4,51,1,0,1597057141,"./i3/config"
+|4,51,1,0,1597072039,"./i3/config"
 '4  1  0  ./i3/config
 |4,52,1,0,1597057141,"./i3/config"
 '5  1  0  ./i3/config
@@ -49,14 +49,32 @@
 |4,57,1,0,1597057141,"./i3/config"
 
 # Jumplist (newest first):
+-'  52  0  ~/.cache/wal/colors-rofi-dark.rasi
+|4,39,52,0,1597122408,"~/.cache/wal/colors-rofi-dark.rasi"
+-'  36  0  ~/.cache/wal/colors-rofi-dark.rasi
+|4,39,36,0,1597122406,"~/.cache/wal/colors-rofi-dark.rasi"
+-'  43  21  ~/.cache/wal/colors-rofi-dark.rasi
+|4,39,43,21,1597122300,"~/.cache/wal/colors-rofi-dark.rasi"
+-'  1  0  ~/.cache/wal/colors-rofi-dark.rasi
+|4,39,1,0,1597122071,"~/.cache/wal/colors-rofi-dark.rasi"
 -'  50  0  ~/.config/i3/config
 |4,39,50,0,1597074754,"~/.config/i3/config"
+-'  50  0  ~/.config/i3/config
+|4,39,50,0,1597074754,"~/.config/i3/config"
+-'  1  0  ./config/i3/config
+|4,39,1,0,1597072050,"./config/i3/config"
 -'  1  0  ./config/i3/config
 |4,39,1,0,1597072050,"./config/i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597072039,"./i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597072039,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597072039,"./i3/config"
+-'  1  0  ./i3/config
+|4,39,1,0,1597072039,"./i3/config"
+-'  56  88  ~/.config/i3/config
+|4,39,56,88,1597059777,"~/.config/i3/config"
 -'  56  88  ~/.config/i3/config
 |4,39,56,88,1597059777,"~/.config/i3/config"
 -'  1  0  ./i3/config
@@ -231,26 +249,19 @@
 |4,39,1,0,1597057141,"./i3/config"
 -'  1  0  ./i3/config
 |4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
--'  1  0  ./i3/config
-|4,39,1,0,1597057141,"./i3/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/.cache/wal/colors-rofi-dark.rasi
+	*	1597122406	0
+	"	52	0
+	^	43	22
+	.	43	21
+	+	34	14
+	+	42	10
+	+	43	11
+	+	44	0
+	+	43	21
 
 > ~/.config/i3/config
 	*	1597074633	0

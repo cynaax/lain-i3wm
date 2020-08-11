@@ -22,6 +22,8 @@ My first proper submission to Github, of course it's a rice, but it looks very n
 
 `spotify-tui` works better, and faster
 
+`spotifyd` no need for the bloated client
+
 `oomox` just because
 
 `pywalfox` uses the ThemeAPI from Mozilla that allows Firefox to work with the generated colours from `pywal`

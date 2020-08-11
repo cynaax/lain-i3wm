@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/anthony/wallpapers/10.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1411",
+        "foreground": "#e8e7e5",
+        "cursor": "#e8e7e5"
+    },
+    "colors": {
+        "color0": "#1c1411",
+        "color1": "#7D8482",
+        "color2": "#9F9E9D",
+        "color3": "#CBB4A9",
+        "color4": "#D2C5BC",
+        "color5": "#DAD7D5",
+        "color6": "#E3DAD0",
+        "color7": "#e8e7e5",
+        "color8": "#a2a1a0",
+        "color9": "#7D8482",
+        "color10": "#9F9E9D",
+        "color11": "#CBB4A9",
+        "color12": "#D2C5BC",
+        "color13": "#DAD7D5",
+        "color14": "#E3DAD0",
+        "color15": "#e8e7e5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/anthony/Documents/wariscomfy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020109",
+        "foreground": "#f0ecc9",
+        "cursor": "#f0ecc9"
+    },
+    "colors": {
+        "color0": "#020109",
+        "color1": "#645EA8",
+        "color2": "#9C5EAF",
+        "color3": "#DF63A8",
+        "color4": "#A754D0",
+        "color5": "#E86AD2",
+        "color6": "#51A2CA",
+        "color7": "#f0ecc9",
+        "color8": "#a8a58c",
+        "color9": "#645EA8",
+        "color10": "#9C5EAF",
+        "color11": "#DF63A8",
+        "color12": "#A754D0",
+        "color13": "#E86AD2",
+        "color14": "#51A2CA",
+        "color15": "#f0ecc9"
+    }
+}

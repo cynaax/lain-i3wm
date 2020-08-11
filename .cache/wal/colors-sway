@@ -1,0 +1,21 @@
+set $wallpaper /home/anthony/wallpapers/15.jpg
+
+set $background #101010
+set $foreground #d9d9d9
+
+set $color0 #101010
+set $color1 #AE4630
+set $color2 #8B807F
+set $color3 #929292
+set $color4 #9E9F9F
+set $color5 #B0B0B0
+set $color6 #B9C1C2
+set $color7 #d9d9d9
+set $color8 #979797
+set $color9 #AE4630
+set $color10 #8B807F
+set $color11 #929292
+set $color12 #9E9F9F
+set $color13 #B0B0B0
+set $color14 #B9C1C2
+set $color15 #d9d9d9

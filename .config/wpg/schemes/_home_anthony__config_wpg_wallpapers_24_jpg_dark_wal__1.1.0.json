@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/anthony/.config/wpg/wallpapers/24.jpg",
+    "alpha": "50",
+
+    "special": {
+        "background": "#030912",
+        "foreground": "#88b5d8",
+        "cursor": "#88b5d8"
+    },
+    "colors": {
+        "color0": "#030912",
+        "color1": "#195D9E",
+        "color2": "#19629A",
+        "color3": "#21649A",
+        "color4": "#1B75B6",
+        "color5": "#2175B5",
+        "color6": "#1C7BC2",
+        "color7": "#88b5d8",
+        "color8": "#5f7e97",
+        "color9": "#195D9E",
+        "color10": "#19629A",
+        "color11": "#21649A",
+        "color12": "#1B75B6",
+        "color13": "#2175B5",
+        "color14": "#1C7BC2",
+        "color15": "#88b5d8"
+    }
+}

@@ -326,10 +326,6 @@ set_from_resource $term_color14    color14
 set_from_resource $term_color15    color15
 
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
-#bar {
-	i3bar_command i3bar
-	status_command i3status
-	position bottom
 
 ## please set your primary output first. Example: 'xrandr --output eDP1MM --primary'
 #	tray_output primary
@@ -425,4 +421,5 @@ mode "$mode_gaps_outer" {
 }
 
 exec --no-startup-id wal -i /home/anthony/wallpapers/15.png
+exec_always --no-startup-id /home/anthony/.config/polybar/launch.sh
 

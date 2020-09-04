@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/anthony/5725.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1e1f",
+        "foreground": "#d9d8d3",
+        "cursor": "#d9d8d3"
+    },
+    "colors": {
+        "color0": "#1f1e1f",
+        "color1": "#955951",
+        "color2": "#A69274",
+        "color3": "#C3A170",
+        "color4": "#98A393",
+        "color5": "#B0AFA5",
+        "color6": "#C1BEB4",
+        "color7": "#d9d8d3",
+        "color8": "#979793",
+        "color9": "#955951",
+        "color10": "#A69274",
+        "color11": "#C3A170",
+        "color12": "#98A393",
+        "color13": "#B0AFA5",
+        "color14": "#C1BEB4",
+        "color15": "#d9d8d3"
+    }
+}

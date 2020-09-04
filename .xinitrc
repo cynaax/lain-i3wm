@@ -74,3 +74,5 @@ wal -R
 
 # Create the alias.
 alias dmen='dmenu_run -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15"'
+
+xsetroot -cursor_name left_ptr

@@ -62,3 +62,7 @@ colorscheme wal
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
+
+" Theme
+syntax enable
+colorscheme tempus_future

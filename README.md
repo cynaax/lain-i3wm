@@ -1,7 +1,7 @@
 # lain-i3wm
 My first proper submission to Github, of course it's a rice, but it looks very nice.
 
-**I use bspwm as of now, so I have included my config files for them as well**
+**I use bspwm as of now, so I have included my config file(s) for it as well**
 
 ### Needed deps:
 `pywal` self explanatory
